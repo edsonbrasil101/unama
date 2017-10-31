@@ -1,3 +1,3 @@
 # unama
 
-go!
+go!ta
